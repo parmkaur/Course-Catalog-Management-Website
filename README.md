@@ -12,7 +12,7 @@ This library package requires PHP 5.3 or later Apache web server 2.x or later
   Install XAMPP Server(Turn on MySQL and Apache Server)
   
 # Create database
-go to phpmyadmin and create database named lms and import sql file in sql/www40.sql
+go to phpmyadmin and create database named www40 and import sql file in sql/www40.sql
 
 # Login Details:
 username: admin1  
