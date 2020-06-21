@@ -5,15 +5,30 @@ Developed as a Web Porgramming Languages class project
 # Introduction
 This is implement of a professional website, for a Course Catalog Management System using HTML, CSS, JavaScript and PHP (without frameworks).
 
-# Requirement
-This library package requires PHP 5.3 or later Apache web server 2.x or later
+# Technologies Used : PHP 5.6, MYSQL, HTML,CSS, JAVASCRIPT, JQUERY, AJAX
 
-# Installation
-  Install XAMPP Server(Turn on MySQL and Apache Server)
+# Software Requirement(any one)
+WAMP
+XAMPP
+MAMP
+LAMP
   
-# Create database
-go to phpmyadmin and create database named www40 and import sql file in sql/www40.sql
+# Installation Steps(Configuration)
+1. Download and Clone/Download the respository on your local system.
+2. Put this file inside xampp/htdocs/ .
 
-# Login Details:
-username: admin1  
-password: admin1
+# Database Configuration
+Open phpmyadmin
+Create Database www40.
+Import database sql/www40.sql
+Open Your browser put inside browser “http://localhost/Course-Catalog-Management-Website/”
+
+# Login Details Admin :
+Username/Password : admin1/admin1
+
+
+
+
+
+
+
