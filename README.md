@@ -5,7 +5,8 @@ Developed as a Web Porgramming Languages class project
 # Introduction
 This is implement of a professional website, for a Course Catalog Management System using HTML, CSS, JavaScript and PHP (without frameworks).
 
-# Technologies Used : PHP 5.6, MYSQL, HTML,CSS, JAVASCRIPT, JQUERY, AJAX
+# Technologies Used
+PHP 5.6, MYSQL, HTML,CSS, JAVASCRIPT, JQUERY, AJAX, Bootstrap
 
 # Software Requirement(any one)
 WAMP
